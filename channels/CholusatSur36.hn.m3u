@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8

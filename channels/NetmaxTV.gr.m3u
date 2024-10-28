@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8

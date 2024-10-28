@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8

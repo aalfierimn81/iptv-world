@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8

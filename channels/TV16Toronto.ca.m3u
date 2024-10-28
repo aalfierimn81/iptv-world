@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
